@@ -14,5 +14,12 @@ I used word2vec, Fasttext, BERT pre-trained model (bert-base-nli-mean-tokens), a
 ## Result:
 The final result shows the top 5 most similar prior cases of each current case.
 
+# Language: 
+ Python
+
+# IDE: 
+Google Colab
+
+
 
 
